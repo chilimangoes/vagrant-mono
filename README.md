@@ -13,8 +13,8 @@ Prerequisites:
 2. Install Vagrant from [http://www.vagrantup.com/](http://www.vagrantup.com/)
 
 
-How to use it:
-==============
+How to use this Vagrant box:
+============================
 
 Build it yourself
 -------------------
