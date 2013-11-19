@@ -60,7 +60,7 @@ Use a pre-packaged box
 If you don't want to build Mono yourself, you can download the pre-built VM:
 
 ```shell
-	vagrant box add vagrant-mono https://github.com/chilimangoes/vagrant-mono/releases/3.2.3/package.box
+	vagrant box add vagrant-mono https://github.com/chilimangoes/vagrant-mono/releases/download/3.2.3/package.box
 	vagrant init vagrant-mono
 	vagrant up
 ```
@@ -90,4 +90,4 @@ The Vagrantfile and setup scripts used here are based on code and examples from 
 * https://github.com/david-mitchell/vagrant-mono-3.0
 * http://christoph.ruegg.name/blog/test-csharp-fsharp-on-mono-with-vagrant.html
 * http://alexfalkowski.blogspot.com/2013/03/web-development-on-mono.html
-
+* http://vstone.eu/reducing-vagrant-box-size/
